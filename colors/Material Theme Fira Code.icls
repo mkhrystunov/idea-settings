@@ -117,6 +117,34 @@
         <option name="FOREGROUND" value="f36e3a" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="56777f" />
+        <option name="BACKGROUND" value="fafadc" />
+        <option name="EFFECT_COLOR" value="32424a" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="506b73" />
+        <option name="BACKGROUND" value="f5f5f5" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="678991" />
+        <option name="BACKGROUND" value="dcdcdc" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="48666e" />
+        <option name="BACKGROUND" value="fdfdfd" />
+        <option name="EFFECT_COLOR" value="c8c8c8" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="112a37" />

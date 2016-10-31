@@ -18,6 +18,7 @@
       <mask>*.php</mask>
       <mask>*.yml</mask>
       <mask>*.rb</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,5 +1,5 @@
 <scheme name="Material Theme Fira Code" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.6" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="15" />
@@ -11,6 +11,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="78c878" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />

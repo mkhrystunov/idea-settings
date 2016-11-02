@@ -15,10 +15,10 @@
       <mask>*.html</mask>
       <mask>*.html.twig</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>*.rb</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

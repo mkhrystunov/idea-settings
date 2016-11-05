@@ -16,9 +16,9 @@
       <mask>*.html.twig</mask>
       <mask>*.php</mask>
       <mask>*.rb</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.yml</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

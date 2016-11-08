@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <option name="defaultScopeName" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>

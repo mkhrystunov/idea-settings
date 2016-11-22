@@ -2,5 +2,8 @@
   <component name="PowerModeII">
     <option name="flamesEnabled" value="false" />
     <option name="frameRate" value="60" />
+    <option name="shakeRange" value="5" />
+    <option name="sparkCount" value="31" />
+    <option name="sparkSize" value="4" />
   </component>
 </application>

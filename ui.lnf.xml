@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="FONT_SIZE" value="14" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
@@ -7,7 +8,7 @@
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="556" />
+    <option name="MAX_LOOKUP_WIDTH2" value="673" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
   </component>
 </application>

@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,8 +20,8 @@
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>*.rb</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

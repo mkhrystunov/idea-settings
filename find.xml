@@ -18,8 +18,8 @@
       <mask>*.php</mask>
       <mask>*.rb</mask>
       <mask>*.twig</mask>
-      <mask>*.scss</mask>
       <mask>*.yml</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

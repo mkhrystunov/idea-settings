@@ -1,7 +1,6 @@
 <scheme name="Material Theme Fira Code" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2016-12-19T19:37:25</property>
-    <property name="rainbow Default language">true</property>
+    <property name="modified">2017-02-06T14:52:15</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -14,7 +13,7 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="40" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="78c878" />

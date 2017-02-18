@@ -13,14 +13,14 @@
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
       <mask>*.html.twig</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.less</mask>
       <mask>*.rb</mask>
-      <mask>*.html</mask>
-      <mask>*.scss</mask>
       <mask>*.yml</mask>
       <mask>*.twig</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

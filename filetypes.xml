@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

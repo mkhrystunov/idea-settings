@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <option name="defaultScopeName" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,11 +19,11 @@
       <mask>*.php</mask>
       <mask>*.less</mask>
       <mask>*.rb</mask>
-      <mask>*.yml</mask>
       <mask>*.twig</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

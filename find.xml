@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <option name="defaultScopeName" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <option name="SEARCH_SCOPE" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,10 +19,10 @@
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.sql</mask>
-      <mask>*.yml</mask>
       <mask>*.html</mask>
       <mask>*.pjp</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

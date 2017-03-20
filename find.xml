@@ -12,7 +12,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html.twig</mask>
-      <mask>*.php</mask>
       <mask>*.less</mask>
       <mask>*.rb</mask>
       <mask>*.twig</mask>
@@ -21,6 +20,8 @@
       <mask>*.sql</mask>
       <mask>*.yml</mask>
       <mask>*.html</mask>
+      <mask>*.pjp</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

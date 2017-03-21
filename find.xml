@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <option name="defaultScopeName" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[node-learning] - .../bug-clinic/3_disinfect/app.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>

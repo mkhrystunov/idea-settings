@@ -1,4 +1,7 @@
 <application>
+  <component name="TrainingLangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
   <component name="TrainingPluginModules">
     <option name="modules">
       <list>
@@ -36,7 +39,6 @@
               </Lesson>
             </list>
           </option>
-          <option name="mySdkType" value="JAVA" />
           <option name="name" value="Editor Basics" />
           <option name="moduleType" value="SCRATCH" />
         </course>
@@ -62,7 +64,6 @@
               </Lesson>
             </list>
           </option>
-          <option name="mySdkType" value="JAVA" />
           <option name="name" value="Completions" />
           <option name="moduleType" value="SCRATCH" />
         </course>
@@ -127,25 +128,6 @@
               <Lesson>
                 <option name="name" value="Jump to Source" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #0" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #1" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="finished" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
               <Lesson>
                 <option name="name" value="Declaration/Implementation" />
@@ -158,28 +140,6 @@
               <Lesson>
                 <option name="name" value="Next/Previous Occurrences" />
                 <option name="passed" value="true" />
-                <option name="statistic">
-                  <list>
-                    <MyPair>
-                      <option name="status" value="started" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #0" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #1" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #2" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="passed item #3" />
-                    </MyPair>
-                    <MyPair>
-                      <option name="status" value="closed" />
-                    </MyPair>
-                  </list>
-                </option>
               </Lesson>
             </list>
           </option>

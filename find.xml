@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -28,10 +29,10 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.yml</mask>
+      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

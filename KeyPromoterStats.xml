@@ -2,6 +2,7 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Alt+Enter'" value="1" />
         <entry key="'Ctrl+Alt+N'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="4" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="1" />

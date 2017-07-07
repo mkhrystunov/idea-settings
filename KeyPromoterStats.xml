@@ -4,6 +4,7 @@
       <map>
         <entry key="'Alt+4'" value="1" />
         <entry key="'Ctrl+Alt+Z'" value="1" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="2" />
         <entry key="'Ctrl+F2'" value="1" />
       </map>
     </option>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -23,13 +24,14 @@
       <mask>*.ymlex</mask>
       <mask>*.ymle</mask>
       <mask>*.ym</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.yml</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

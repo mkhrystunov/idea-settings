@@ -12,7 +12,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html.twig</mask>
-      <mask>*.less</mask>
       <mask>*.rb</mask>
       <mask>*.scss</mask>
       <mask>*.sql</mask>
@@ -23,13 +22,17 @@
       <mask>*.ymlex</mask>
       <mask>*.ymle</mask>
       <mask>*.ym</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.yml</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>

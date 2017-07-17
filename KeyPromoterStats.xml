@@ -3,8 +3,11 @@
     <option name="stats">
       <map>
         <entry key="'Alt+9'" value="1" />
+        <entry key="'Alt+Delete'" value="1" />
         <entry key="'Alt+Enter'" value="6" />
-        <entry key="'Alt+Insert'" value="1" />
+        <entry key="'Alt+Insert'" value="2" />
+        <entry key="'Alt+Shift+W'" value="1" />
+        <entry key="'Alt+Shift+X'" value="1" />
         <entry key="'Ctrl+Alt+N'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="5" />
         <entry key="'Ctrl+D'" value="3" />

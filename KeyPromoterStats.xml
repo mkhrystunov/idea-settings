@@ -2,6 +2,8 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Alt+3'" value="1" />
+        <entry key="'Alt+5'" value="1" />
         <entry key="'Alt+9'" value="1" />
         <entry key="'Alt+Delete'" value="2" />
         <entry key="'Alt+Enter'" value="6" />

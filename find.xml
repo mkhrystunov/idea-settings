@@ -6,7 +6,6 @@
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -29,10 +28,12 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
-      <mask>*</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -25,15 +25,15 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

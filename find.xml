@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -28,14 +29,14 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.p</mask>
-      <mask>*.yml</mask>
       <mask>*.php</mask>
       <mask>*/</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

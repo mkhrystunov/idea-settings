@@ -26,14 +26,14 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*/</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

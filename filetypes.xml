@@ -9,6 +9,7 @@
       <mapping pattern=".babel.rc" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="EventDispatcherProvider" type="PLAIN_TEXT" />
       <mapping pattern=".arclint" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="empty" type="PLAIN_TEXT" />

@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.scss</mask>
       <mask>*.sql</mask>
@@ -31,10 +32,10 @@
       <mask>*.php,*.</mask>
       <mask>*.php,*.j</mask>
       <mask>*.php,*.js</mask>
+      <mask>*.ym</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
     </recentFileMasks>
   </component>

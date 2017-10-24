@@ -1,5 +1,6 @@
 <application>
   <component name="PowerModeII">
+    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="frameRate" value="60" />
     <option name="isPowerIndicatorEnabled" value="false" />

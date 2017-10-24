@@ -3,28 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.html.twig</mask>
-      <mask>*.less</mask>
-      <mask>*.rb</mask>
-      <mask>*.twig</mask>
-      <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.sql</mask>
       <mask>*.html</mask>
       <mask>*.pjp</mask>
+      <mask>*.ymlex[</mask>
+      <mask>*.ymlex</mask>
+      <mask>*.ymle</mask>
+      <mask>*.twi</mask>
+      <mask>*.js</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*/</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
       <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,*</mask>
+      <mask>*.php,*.</mask>
+      <mask>*.php,*.j</mask>
+      <mask>*.php,*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
       <mask>*.yml</mask>
     </recentFileMasks>
   </component>

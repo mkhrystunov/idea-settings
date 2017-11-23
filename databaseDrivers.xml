@@ -41,15 +41,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
-        </library>
-      </artifact>
+      <artifact name="PostgreSQL" use="true" version="42.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />

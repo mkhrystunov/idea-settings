@@ -6,6 +6,7 @@
       <mapping pattern="ssl_access_log" type="PLAIN_TEXT" />
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".arcunit" type="PLAIN_TEXT" />
+      <mapping pattern="MaxQueueLengthLog" type="PLAIN_TEXT" />
       <mapping pattern=".babel.rc" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />

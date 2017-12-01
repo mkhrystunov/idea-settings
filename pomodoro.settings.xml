@@ -1,0 +1,6 @@
+<application>
+  <component name="PomodoroSettings">
+    <option name="blockDuringBreak" value="true" />
+    <option name="showToolWindow" value="true" />
+  </component>
+</application>

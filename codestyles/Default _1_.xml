@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -9,6 +9,9 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

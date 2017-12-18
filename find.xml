@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.scss</mask>
       <mask>*.sql</mask>
@@ -14,7 +15,6 @@
       <mask>*.ymlex</mask>
       <mask>*.ymle</mask>
       <mask>*.twi</mask>
-      <mask>*.js</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.le</mask>
@@ -33,9 +33,10 @@
       <mask>*.php,*.js</mask>
       <mask>*.ym</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

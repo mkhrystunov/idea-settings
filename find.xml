@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
-      <mask>*.scss</mask>
-      <mask>*.sql</mask>
-      <mask>*.html</mask>
-      <mask>*.pjp</mask>
       <mask>*.ymlex[</mask>
       <mask>*.ymlex</mask>
       <mask>*.ymle</mask>
@@ -29,11 +26,15 @@
       <mask>*.php,*.j</mask>
       <mask>*.php,*.js</mask>
       <mask>*.ym</mask>
-      <mask>*</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>

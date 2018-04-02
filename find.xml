@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.ymlex[</mask>
-      <mask>*.ymlex</mask>
-      <mask>*.ymle</mask>
-      <mask>*.twi</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.p</mask>
-      <mask>*/</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.php</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,*</mask>
-      <mask>*.php,*.</mask>
-      <mask>*.php,*.j</mask>
-      <mask>*.php,*.js</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
-      <mask>*.html.twig</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.twig" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>

@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" type="SnakeYAML" />
       <removed_mapping ext="yaml" type="SnakeYAML" />
       <mapping ext="yaml" type="YAML" />

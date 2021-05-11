@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.11" />
+    </driver>
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
     </driver>

@@ -1,0 +1,7 @@
+<application>
+  <component name="download-consent">
+    <option name="consentItems">
+      <item download="ALLOWED" kind="SPACE-SHARED-INDEX" url="https://nectardesk.jetbrains.space" />
+    </option>
+  </component>
+</application>

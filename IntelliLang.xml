@@ -68,6 +68,14 @@
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("query").withParameterCount(2).definedInClass("jodd.db.DbQuery"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("DbQuery").withParameterCount(3).definedInClass("jodd.db.DbQuery"))]]></place>
     </injection>
+    <injection language="JSONPath" injector-id="java">
+      <display-name>JsonAsserter (com.jayway.jsonpath)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertEquals").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotDefined").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertThat").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
+    </injection>
     <injection language="http-reference" injector-id="java">
       <display-name>OkHttp (okhttp3)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
@@ -145,10 +153,21 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("skip").withParameters("java.lang.String").definedInClass("java.util.Scanner"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("useDelimiter").withParameters("java.lang.String").definedInClass("java.util.Scanner"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Session.createNativeQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>Session.createQuery (org.hibernate)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>SmallRye Axle SqlClient (io.vertx.axle.sqlclient)</display-name>
@@ -252,6 +271,15 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "prepare", "preparedQuery", "preparedBatch", "rxQuery", "rxPreparedQuery", "rxPreparedBatch").definedInClass("io.vertx.reactivex.pgclient.PgPool"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "prepare", "preparedQuery", "preparedBatch", "rxQuery", "rxPreparedQuery", "rxPreparedBatch").definedInClass("io.vertx.reactivex.sqlclient.Pool"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "prepare", "preparedQuery", "preparedBatch", "rxQuery", "rxPreparedQuery", "rxPreparedBatch").definedInClass("io.vertx.reactivex.sqlclient.SqlClient"))]]></place>
+    </injection>
+    <injection language="JSONPath" injector-id="java">
+      <display-name>WriteContext (com.jayway.jsonpath)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("add").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("delete").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("map").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("put").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("renameKey").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>jOOQ (org.jooq.DSLContext)</display-name>

@@ -16,6 +16,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
     </extensionMap>
   </component>
 </application>

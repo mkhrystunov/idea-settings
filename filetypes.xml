@@ -5,6 +5,7 @@
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="docker/php/Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_prev" type="Dockerfile" />
+      <mapping pattern="Dockerfile_Nginx" type="Dockerfile" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />

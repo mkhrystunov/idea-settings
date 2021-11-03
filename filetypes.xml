@@ -12,6 +12,7 @@
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping ext="ubuntu" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />

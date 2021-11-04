@@ -1,7 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/projects/nectardesk/docker-compose.yml" value="YAML" />
-    <file url="file://$USER_HOME$/projects/nectardesk/docker-compose.yml" value="YAML" />
+    <file url="file://$USER_HOME$/projects/nectardesk/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/projects/tutorials/docker/app/docker-compose.yml" value="YAML" />
   </component>
 </application>

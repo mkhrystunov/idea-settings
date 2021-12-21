@@ -16,5 +16,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
+      <mapping pattern="apache/Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="processor" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="docker/php/Dockerfile" type="AUTO_DETECTED" />

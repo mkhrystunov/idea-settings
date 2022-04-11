@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*yml" />
+    <option name="FILE_MASK" value="generator.yml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,5 +19,7 @@
     <mask>*.html.twig</mask>
     <mask>*.tsx</mask>
     <mask>*yml</mask>
+    <mask>*.yml</mask>
+    <mask>generator.yml</mask>
   </component>
 </application>

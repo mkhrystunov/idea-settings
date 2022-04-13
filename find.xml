@@ -16,9 +16,9 @@
     <mask>*.java</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
-    <mask>*.tsx</mask>
     <mask>*yml</mask>
     <mask>*.yml</mask>
     <mask>generator.yml</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>

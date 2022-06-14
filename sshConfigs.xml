@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="3.231.130.88" id="6f6e94eb-ad08-4f68-b585-b3686180024f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig host="34.226.185.124" id="1e04afba-844b-4dbe-9f51-f5ad9fc60f37" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="integrations" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="integrations" />
+      </sshConfig>
     </configs>
   </component>
 </application>

@@ -5,6 +5,9 @@
       <sshConfig host="34.226.185.124" id="1e04afba-844b-4dbe-9f51-f5ad9fc60f37" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="integrations" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="integrations" />
       </sshConfig>
+      <sshConfig host="34.134.62.97" id="6e014b53-52c7-4ebe-a1d5-7d97e9f912e3" keyPath="$USER_HOME$/.ssh/id_ed25519_litslink" port="22" customName="litslink-staging" nameFormat="CUSTOM" username="kmaksym" useOpenSSHConfig="true">
+        <option name="customName" value="litslink-staging" />
+      </sshConfig>
     </configs>
   </component>
 </application>

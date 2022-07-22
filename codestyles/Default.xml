@@ -459,6 +459,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SybaseCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />

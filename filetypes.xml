@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".docker-env.local" type=".env file" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="apache/Dockerfile" type="AUTO_DETECTED" />

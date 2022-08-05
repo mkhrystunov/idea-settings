@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/projects/softpositive/encuentra24/.docker-env" value=".env file" />
     <file url="file://$USER_HOME$/projects/tutorials/docker/app/docker-compose.yml" value="YAML" />
     <file url="file://$USER_HOME$/projects/watchdogs/docker-compose.override.yml" value="YAML" />
   </component>

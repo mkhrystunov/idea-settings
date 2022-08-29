@@ -6,13 +6,5 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
-    <remote-server name="Docker2" type="docker">
-      <configuration>
-        <option name="apiUrl" value="http://127.0.0.1" />
-        <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="1e04afba-844b-4dbe-9f51-f5ad9fc60f37" />
-        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
-      </configuration>
-    </remote-server>
   </component>
 </application>

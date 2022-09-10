@@ -18,7 +18,7 @@
     <mask>*yml</mask>
     <mask>generator.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.tsx</mask>
+    <mask>*.php</mask>
   </component>
 </application>

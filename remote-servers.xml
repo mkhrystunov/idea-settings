@@ -6,5 +6,13 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="nd-elastic" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="327ef4ae-1271-46aa-8d65-3038703dc0d7" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+      </configuration>
+    </remote-server>
   </component>
 </application>

@@ -22,6 +22,7 @@
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping ext="ubuntu" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />

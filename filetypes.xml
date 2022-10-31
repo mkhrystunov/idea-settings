@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".docker-env.local" type=".env file" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="apache/Dockerfile" type="AUTO_DETECTED" />
@@ -20,14 +19,14 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
-      <mapping ext="ubuntu" type="PLAIN_TEXT" />
-      <mapping ext="cert" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="ubuntu" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ssh/id_rsa" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -35,6 +34,7 @@
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
       <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <mapping pattern=".docker-env.local" type=".env file" />
     </extensionMap>
   </component>
 </application>
